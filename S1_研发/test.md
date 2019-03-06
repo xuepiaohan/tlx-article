@@ -22,4 +22,4 @@ System.out.println(l2-l1);
 
 ```
 
-![a.jpg](1)
+![a.jpg](a.jpg)
