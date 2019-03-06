@@ -15,6 +15,13 @@
 
 ==标记==
 ```java
-public static vo
+long l1 = System.currentTimeMillis();
+
+
+long l2 = System.nanoTime();
+
+System.out.println(l2-l1);
+
 ```
 
+![AKSUP_ZHCN14506867124_1920x1080.jpg](0)
